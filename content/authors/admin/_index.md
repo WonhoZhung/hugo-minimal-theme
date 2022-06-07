@@ -1,6 +1,6 @@
 ---
 # Display name
-title: KAIST Orchestra
+title: KAIST ORCHESTRA
 
 
 # Is this the primary user of the site?
