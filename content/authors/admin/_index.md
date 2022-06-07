@@ -26,19 +26,19 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:kaistorchestra.official@gmail.com'
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/c/KAISTOrchestra
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/kaist_orchestra/
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/kaistorchestra
-  - icon: youtube
-    icon_pack: fab
-    link: https://www.youtube.com/c/KAISTOrchestra
-  
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:kaistorchestra.official@gmail.com'
+    
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
