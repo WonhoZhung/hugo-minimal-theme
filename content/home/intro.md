@@ -20,7 +20,7 @@ design:
     color: black
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: hello.jpg # Name of image in `assets/media/`.
+    image: _raw_ROH_3544.jpg # Name of image in `assets/media/`.
     image_darken: 0.4
     image_size: cover
     image_position: right
