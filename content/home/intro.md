@@ -29,5 +29,5 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-👋 안녕하세요, 카이스트 오케스트라 홈페이지에 오신 것을 환영합니다.
+👋 Welcome to KAIST Orchestra![지원하기](www.google.com)
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
