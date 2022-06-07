@@ -29,5 +29,6 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-👋 Welcome to KAIST Orchestra![Click!](https://www.google.com)
+👋 카이스트 오케스트라에 오신 것을 환영합니다.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+2022년도 가을학기 신입단원 모집 [링크](https://www.google.com)
